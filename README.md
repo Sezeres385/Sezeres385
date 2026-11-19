@@ -1,16 +1,72 @@
-## Hi there 👋
+Tobias Stier – Discord-Bot-Entwickler
 
-<!--
-**Sezeres385/Sezeres385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Willkommen auf meinem offiziellen Entwicklerprofil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Mein Name ist Tobias Stier. Ich bin Discord-Bot-Entwickler aus Deutschland.
+
+
+Ich beschäftige mich mit der Entwicklung und Programmierung von Discord-Bots sowie modernen Discord-Community-Systemen.
+
+
+Über mich
+
+
+Als Discord-Bot-Entwickler beschäftige ich mich mit der technischen Umsetzung und Automatisierung von Discord-Servern.
+
+
+Fachgebiete
+
+
+
+
+Discord-Bot-Entwicklung
+
+
+Discord-Community-Systeme
+
+
+Automatisierte Moderation
+
+
+Servermanagement
+
+
+Individuelle Bot-Funktionen
+
+
+Discord-Server-Automatisierung
+
+
+
+
+Projekte
+
+
+Auf diesem Profil werden meine Entwicklungsprojekte und technischen Arbeiten vorgestellt.
+
+
+Entwicklerprofil
+
+
+
+
+Name: Tobias Stier
+
+
+Tätigkeit: Discord-Bot-Entwickler
+
+
+Land: Deutschland
+
+
+Schwerpunkt: Discord-Bots und Community-Systeme
+
+
+
+
+
+Dies ist das offizielle öffentliche GitHub-Entwicklerprofil von Tobias Stier.
+
+
